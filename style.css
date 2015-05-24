@@ -1,0 +1,29 @@
+.nav ul{
+	position:absolute;
+	right:25px;
+	top:-10px;
+}
+
+.nav li{
+	margin: 0 0.4em;
+	display: inline;
+	font-size:14px;
+	color:6B6B6B;
+}
+
+.logo{
+  width: 275px;
+  margin:auto;
+  margin-top:190px;
+}
+
+#app_image{
+	position:relative;
+	top:10px;
+}
+
+#arrow{
+	position:relative;
+	top:8px;
+	left:-10px;
+}
